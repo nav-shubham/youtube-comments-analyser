@@ -10,3 +10,11 @@ downloader.db
 emails.db
 env/
 venv/
+
+# Clean Backup Exclusions
+.tmp/
+*.xlsx
+*.pdf
+*.db
+*.exe
+*.lock
